@@ -1,6 +1,4 @@
-# OODesing. Роботизированное управление складом.
-
-# Task 8.1. Object-Oriented Software Design and Programming. Home task [OO Design]
+# Task 8.1. OODesing. Роботизированное управление складом. Object-Oriented Software Design and Programming. Home task [OO Design]
 
 * Разработать иерархию классов.
 
